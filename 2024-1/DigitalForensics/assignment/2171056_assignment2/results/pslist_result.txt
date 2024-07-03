@@ -1,0 +1,35 @@
+Volatility 3 Framework 2.7.0
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+4	0	System	0x823c8830	59	403	N/A	False	N/A	N/A	Disabled
+376	4	smss.exe	0x820df020	3	19	N/A	False	2010-10-29 17:08:53.000000 	N/A	Disabled
+600	376	csrss.exe	0x821a2da0	11	395	0	False	2010-10-29 17:08:54.000000 	N/A	Disabled
+624	376	winlogon.exe	0x81da5650	19	570	0	False	2010-10-29 17:08:54.000000 	N/A	Disabled
+668	624	services.exe	0x82073020	21	431	0	False	2010-10-29 17:08:54.000000 	N/A	Disabled
+680	624	lsass.exe	0x81e70020	19	342	0	False	2010-10-29 17:08:54.000000 	N/A	Disabled
+844	668	vmacthlp.exe	0x823315d8	1	25	0	False	2010-10-29 17:08:55.000000 	N/A	Disabled
+856	668	svchost.exe	0x81db8da0	17	193	0	False	2010-10-29 17:08:55.000000 	N/A	Disabled
+940	668	svchost.exe	0x81e61da0	13	312	0	False	2010-10-29 17:08:55.000000 	N/A	Disabled
+1032	668	svchost.exe	0x822843e8	61	1169	0	False	2010-10-29 17:08:55.000000 	N/A	Disabled
+1080	668	svchost.exe	0x81e18b28	5	80	0	False	2010-10-29 17:08:55.000000 	N/A	Disabled
+1200	668	svchost.exe	0x81ff7020	14	197	0	False	2010-10-29 17:08:55.000000 	N/A	Disabled
+1412	668	spoolsv.exe	0x81fee8b0	10	118	0	False	2010-10-29 17:08:56.000000 	N/A	Disabled
+1580	668	jqs.exe	0x81e0eda0	5	148	0	False	2010-10-29 17:09:05.000000 	N/A	Disabled
+1664	668	vmtoolsd.exe	0x81fe52d0	5	284	0	False	2010-10-29 17:09:05.000000 	N/A	Disabled
+1816	668	VMUpgradeHelper	0x821a0568	3	96	0	False	2010-10-29 17:09:08.000000 	N/A	Disabled
+188	668	alg.exe	0x8205ada0	6	107	0	False	2010-10-29 17:09:09.000000 	N/A	Disabled
+1196	1728	explorer.exe	0x820ec7e8	16	582	0	False	2010-10-29 17:11:49.000000 	N/A	Disabled
+2040	1032	wscntfy.exe	0x820ecc10	1	28	0	False	2010-10-29 17:11:49.000000 	N/A	Disabled
+324	1196	TSVNCache.exe	0x81e86978	7	54	0	False	2010-10-29 17:11:49.000000 	N/A	Disabled
+1912	1196	VMwareTray.exe	0x81fc5da0	1	50	0	False	2010-10-29 17:11:50.000000 	N/A	Disabled
+1356	1196	VMwareUser.exe	0x81e6b660	9	251	0	False	2010-10-29 17:11:50.000000 	N/A	Disabled
+1712	1196	jusched.exe	0x8210d478	1	26	0	False	2010-10-29 17:11:50.000000 	N/A	Disabled
+756	668	imapi.exe	0x82279998	4	116	0	False	2010-10-29 17:11:54.000000 	N/A	Disabled
+976	1032	wuauclt.exe	0x822b9a10	3	133	0	False	2010-10-29 17:12:03.000000 	N/A	Disabled
+660	1196	Procmon.exe	0x81c543a0	13	189	0	False	2011-06-03 04:25:56.000000 	N/A	Disabled
+1872	856	wmiprvse.exe	0x81fa5390	5	134	0	False	2011-06-03 04:25:58.000000 	N/A	Disabled
+868	668	lsass.exe	0x81c498c8	2	23	0	False	2011-06-03 04:26:55.000000 	N/A	Disabled
+1928	668	lsass.exe	0x81c47c00	4	65	0	False	2011-06-03 04:26:55.000000 	N/A	Disabled
+968	1664	cmd.exe	0x81c0cda0	0	-	0	False	2011-06-03 04:31:35.000000 	2011-06-03 04:31:36.000000 	Disabled
+304	968	ipconfig.exe	0x81f14938	0	-	0	False	2011-06-03 04:31:35.000000 	2011-06-03 04:31:36.000000 	Disabled

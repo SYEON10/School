@@ -1,0 +1,35 @@
+Volatility 3 Framework 2.7.0
+
+PID	Process	Args
+
+4	System	Required memory at 0x10 is not valid (process exited?)
+376	smss.exe	\SystemRoot\System32\smss.exe
+600	csrss.exe	C:\WINDOWS\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,3072,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16
+624	winlogon.exe	winlogon.exe
+668	services.exe	C:\WINDOWS\system32\services.exe
+680	lsass.exe	C:\WINDOWS\system32\lsass.exe
+844	vmacthlp.exe	"C:\Program Files\VMware\VMware Tools\vmacthlp.exe"
+856	svchost.exe	C:\WINDOWS\system32\svchost -k DcomLaunch
+940	svchost.exe	C:\WINDOWS\system32\svchost -k rpcss
+1032	svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs
+1080	svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkService
+1200	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService
+1412	spoolsv.exe	C:\WINDOWS\system32\spoolsv.exe
+1580	jqs.exe	"C:\Program Files\Java\jre6\bin\jqs.exe" -service -config "C:\Program Files\Java\jre6\lib\deploy\jqs\jqs.conf"
+1664	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+1816	VMUpgradeHelper	"C:\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe" /service
+188	alg.exe	C:\WINDOWS\System32\alg.exe
+1196	explorer.exe	C:\WINDOWS\Explorer.EXE
+2040	wscntfy.exe	C:\WINDOWS\system32\wscntfy.exe
+324	TSVNCache.exe	"C:\Program Files\TortoiseSVN\bin\TSVNCache.exe"
+1912	VMwareTray.exe	"C:\Program Files\VMware\VMware Tools\VMwareTray.exe" 
+1356	VMwareUser.exe	"C:\Program Files\VMware\VMware Tools\VMwareUser.exe" 
+1712	jusched.exe	"C:\Program Files\Common Files\Java\Java Update\jusched.exe" 
+756	imapi.exe	C:\WINDOWS\system32\imapi.exe
+976	wuauclt.exe	"C:\WINDOWS\system32\wuauclt.exe"
+660	Procmon.exe	"C:\Documents and Settings\Administrator\Desktop\SysinternalsSuite\Procmon.exe" 
+1872	wmiprvse.exe	C:\WINDOWS\system32\wbem\wmiprvse.exe
+868	lsass.exe	"C:\WINDOWS\\system32\\lsass.exe"
+1928	lsass.exe	"C:\WINDOWS\\system32\\lsass.exe"
+968	cmd.exe	Required memory at 0x7ffd6010 is not valid (process exited?)
+304	ipconfig.exe	Required memory at 0x7ffde010 is not valid (process exited?)
